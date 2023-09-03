@@ -1,0 +1,51 @@
+{
+  "menu": [
+    {
+      "id": "1",
+      "path": "/about",
+      "name": "about"
+    },
+    {
+      "id": "2",
+      "path": "/projects",
+      "name": "projects"
+    },
+    {
+      "id": "3",
+      "path": "/blog",
+      "name": "blog"
+    },
+    {
+      "id": "4",
+      "path": "/contact",
+      "name": "contact"
+    },
+    {
+      "id": "5",
+      "path": "/resources",
+      "name": "resources"
+    }
+  ],
+  "data": [
+    {
+      "id": "1",
+      "label": "author",
+      "description": "Jakub Gania"
+    },
+    {
+      "id": "2",
+      "label": "project-name",
+      "description": "my new website"
+    },
+    {
+      "id": "3",
+      "label": "project-type",
+      "description": "personal website"
+    },
+    {
+      "id": "4",
+      "label": "domain",
+      "description": "jakubgania.io"
+    }
+  ]
+}

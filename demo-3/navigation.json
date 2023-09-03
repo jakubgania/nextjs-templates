@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "section_id": "section_1",
+      "label": "Section 1"
+    },
+    {
+      "id": "2",
+      "section_id": "section_2",
+      "label": "Section 2"
+    },
+    {
+      "id": "3",
+      "section_id": "section_3",
+      "label": "Section 3"
+    },
+    {
+      "id": "4",
+      "section_id": "section_4",
+      "label": "Section 4"
+    }
+  ]
+}
