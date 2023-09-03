@@ -47,15 +47,16 @@ export default function HobbiesSectionV2() {
       <DescriptionOfSection description="My hobbies and interests." />
       <div className="text-base text-slate-400 font-medium cursor-default">
         {hobbies.map((hobby, index) => (
-          <div key={hobby.label}>
+          <>
             <span
+              key={hobby.label}
               style={{ textDecorationColor: `${hobby.underline_color}` }}
               className="underline decoration-2"
             >
               {hobby.label}
             </span>
             { index < hobbies.length - 1 ? ', ' : ''}
-          </div>
+          </>
         ))}
       </div>
     </div>

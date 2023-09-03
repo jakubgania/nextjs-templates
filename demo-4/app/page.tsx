@@ -25,9 +25,9 @@ export default function Home() {
       <LinksSection />
       {/* <HobbiesSection /> */}
       <HobbiesSectionV2 />
-      {/* <GallerySection /> */}
-      {/* <SocialMediaSection /> */}
-      {/* <Footer /> */}
+      <GallerySection />
+      <SocialMediaSection />
+      <Footer />
     </main>
   )
 }
